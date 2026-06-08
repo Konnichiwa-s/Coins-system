@@ -4,17 +4,17 @@ Adds three valuable coins to the game with crafting recipes and coin management 
 
 ## Features
 
-- 🪙 **Three Coin Types**:
+- **Three Coin Types**:
   - Gold Coin (base currency)
   - Steel Coin (10× gold value)
   - Diamond Coin (100× gold value)
-- 🛠️ **Challenging Crafting Recipes** using rare materials
-- 📊 **Coin Management Commands**:
+- **Challenging Crafting Recipes** using rare materials
+- **Coin Management Commands**:
   - `/total_coins` - Show all coins in circulation
   - `/set_coin` - Configure coin values (admin only)
   - `/show_coins` - Display current exchange rates
-- 🎨 **Color-coded outputs** for easy reading
-- 👑 Automatic `coin_admin` privilege for server operators
+- **Color-coded outputs** for easy reading
+- Automatic `coin_admin` privilege for server operators
 
 ## Crafting Recipes
 
@@ -33,3 +33,6 @@ Diamond Coin (1 coin)
 [ Diamond ] [ Diamond ] [ Diamond ]
 [ Diamond ] [ Mese Block ] [ Diamond ]
 [ Diamond ] [ Diamond ] [ Diamond ]
+
+## credits
+The mod is developed in under CodeX devlopment department ( multicraft & luanti )
