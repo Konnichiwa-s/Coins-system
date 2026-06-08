@@ -32,7 +32,7 @@ Steel Coin (1 coin)
 Diamond Coin (1 coin)
 [ Diamond ] [ Diamond ] [ Diamond ]
 [ Diamond ] [ Mese Block ] [ Diamond ]
-[ Diamond ] [ Diamond ] [ Diamond ]
+[ Diamond ] [ Diamond ] [ Diamond ]```
 
 ## credits
 The mod is developed in under CodeX devlopment department ( multicraft & luanti )
